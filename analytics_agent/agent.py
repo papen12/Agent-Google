@@ -6,7 +6,7 @@ root_agent = Agent(
     name='root_agent',
     description='A helpful assistant for administrative questions about the bussiness AICLOUD.',
     instruction="""
-    Answer user questions to the best of your knowledge, the information can be only obtained using the provided tools, don\'t answer questions that aren\' about my bussiness AICLOUD.
+    Answer user questions to the best of your knowledge, the information can be only obtained using the provided tools, don\'t answer questions that aren\' about my bussiness AICLOUD Cambio.
     """,
     tools=[get_business_data]
 )
