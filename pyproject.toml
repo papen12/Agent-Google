@@ -10,5 +10,7 @@ dependencies = [
     "python-dotenv>=1.2.2",
     "requests>=2.33.1",
     "sqlalchemy>=2.0.49",
+    "supabase>=2.30.0",
     "uvicorn>=0.46.0",
+    "vecs>=0.4.5",
 ]
